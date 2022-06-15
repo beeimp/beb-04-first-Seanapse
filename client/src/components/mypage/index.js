@@ -1,2 +1,0 @@
-import ProfileImage from './Profile'
-
