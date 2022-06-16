@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/beb-04-first-Seanapse/static/js/main.2f475d8a.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/beb-04-first-Seanapse/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/beb-04-first-Seanapse/index.html",
-    "main.2f475d8a.js.map": "/beb-04-first-Seanapse/static/js/main.2f475d8a.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/beb-04-first-Seanapse/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.js": "/static/js/main.0f6207d8.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/index.html",
+    "main.0f6207d8.js.map": "/static/js/main.0f6207d8.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2f475d8a.js"
+    "static/js/main.0f6207d8.js"
   ]
 }
