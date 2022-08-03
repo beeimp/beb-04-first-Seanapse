@@ -15,12 +15,12 @@ function App() {
     if (window.ethereum) {
       window.ethereum
         .request({
-          // method: "wallet_switchEthereumChain",
-          method: "wallet_addEthereumChain",
+          method: "wallet_switchEthereumChain",
+          // method: "wallet_addEthereumChain",
           params: [
             {
-              chainId: "0x4",
-              rpcUrls: ["https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"],
+              chainId: "0x3",
+              // rpcUrls: ["https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"],
             },
           ], // chainId must be in hexadecimal numbers
         })
