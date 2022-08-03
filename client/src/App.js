@@ -24,12 +24,12 @@ function App() {
             },
           ], // chainId must be in hexadecimal numbers
         })
-        .then((accounts) => {
-          alert("지갑 연결 성공!");
-        })
+        // .then((accounts) => {
+        //   alert("지갑 연결 성공!");
+        // })
         .catch((err) => {
-          console.error(err);
-          alert(err.code);
+          // console.error(err);
+          alert('Ropsten 네트워크로 변경이 필요합니다!');
         });
     } else {
       alert("Please install metamask!");
